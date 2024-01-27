@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://spb.hh.ru/resume/9c70db4cff062824040039ed1f565a76584936" target="_blank">Ivan</a></h1>
-<h3 align="center">QA Engineer from Russia 🇷🇺</h3>
+<h1 align="left">Hi there, I'm <a href="https://spb.hh.ru/resume/9c70db4cff062824040039ed1f565a76584936" target="_blank">Ivan</a></h1>
+<h3 align="left">QA Engineer from Russia 🇷🇺</h3>
 
 [Link to my CV](https://spb.hh.ru/resume/9c70db4cff062824040039ed1f565a76584936)
 
