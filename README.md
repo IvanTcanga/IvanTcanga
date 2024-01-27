@@ -1,5 +1,3 @@
-![Header](https://img.freepik.com/free-photo/white-cat-lies-on-woman-s-knees_8353-539.jpg?w=2000&t=st=1706365760~exp=1706366360~hmac=b243f66340d3f01de508a98e9cfdba0e15480d5566529686aab07d0db6e7d589)
-
 <h1 align="center">Hi there, I'm <a href="https://spb.hh.ru/resume/9c70db4cff062824040039ed1f565a76584936" target="_blank">Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA Engineer from Russia 🇷🇺</h3>
