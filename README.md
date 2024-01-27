@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://spb.hh.ru/resume/9c70db4cff062824040039ed1f565a76584936" target="_blank">Ivan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/></h1>
 <h3 align="center">QA Engineer from Russia 🇷🇺</h3>
 
 [Link to my CV](https://spb.hh.ru/resume/9c70db4cff062824040039ed1f565a76584936)
