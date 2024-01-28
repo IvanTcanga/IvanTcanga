@@ -9,30 +9,32 @@
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Header](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=)
+![Header](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles)
+![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
+![Header](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/IvanTcanga/checklist)
+- [Checklists](https://github.com/IvanTcanga/Checklist)
 - [Test-Suites and Test-Cases](https://github.com/IvanTcanga/test-cases)
-- [Bug-Reports](https://github.com/IvanTcanga/bug-reports)
+- [Bug-Reports](https://github.com/IvanTcanga/Bug-reports)
 - [SQL Queries](https://github.com/IvanTcanga/SQL)
-- [Postman Collections](https://github.com/IvanTcanga/postman)
+- [Postman Collections](https://github.com/IvanTcanga/Postman)
 
-### Yandex Practicum
+### My projects in YP
 
-- [1 - Спринт](https://github.com/IvanTcanga/one_sprint)
-- [2 - Спринт](https://github.com/IvanTcanga/two_sprint)
-- [3 - Спринт](https://github.com/IvanTcanga/three_sprint)
-- [4 - Спринт](https://github.com/IvanTcanga/four_sprint)
-- [5 - Спринт](https://github.com/IvanTcanga/five_sprint)
-- [Диплом](https://github.com/IvanTcanga/postman)
+- [Яндекс Маршруты](https://github.com/IvanTcanga/First_sprint)
+- [2 - Спринт](https://github.com/IvanTcanga/Second_sprint)
+- [3 - Спринт](https://github.com/IvanTcanga/Third_sprint)
+- [4 - Спринт](https://github.com/IvanTcanga/Fourth_sprint)
+- [5 - Спринт](https://github.com/IvanTcanga/Fifth_sprint)
+- [Диплом](https://github.com/IvanTcanga/Graduation_project)
 
 ### Contact 
 - [Telegram](https://t.me/itcanga/)
