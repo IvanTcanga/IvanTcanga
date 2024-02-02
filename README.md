@@ -29,12 +29,10 @@
 
 ### My projects in YP
 
-- [Яндекс Маршруты](https://github.com/IvanTcanga/First_sprint)
-- [2 - Спринт](https://github.com/IvanTcanga/Second_sprint)
-- [3 - Спринт](https://github.com/IvanTcanga/Third_sprint)
-- [4 - Спринт](https://github.com/IvanTcanga/Fourth_sprint)
-- [5 - Спринт](https://github.com/IvanTcanga/Fifth_sprint)
-- [Диплом](https://github.com/IvanTcanga/Graduation_project)
+- [Веб-приложение Яндекс.Маршруты](https://github.com/IvanTcanga/Yandex_Routes)
+- [Мобильное приложение Яндекс.Метро](https://github.com/IvanTcanga/Yandex_Metro)
+- [ API Яндекс.Прилавка](https://github.com/IvanTcanga/API_Yandex_Prilavok)
+- [Яндекс Самокат](https://github.com/IvanTcanga/Yandex_Samokat)
 
 ### Contact 
 - [Telegram](https://t.me/itcanga/)
