@@ -17,6 +17,8 @@
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=)
 ![Header](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles)
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
+![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css))
+          
 
 ### Testing Documentation
 
