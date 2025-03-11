@@ -14,20 +14,5 @@
 ![Header](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=&logoColor=e1e1e1)
 ![Header](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=linux)
 
-### Testing Documentation
-
-- [Checklists](https://github.com/IvanTcanga/Checklist)
-- [Test-Suites and Test-Cases](https://github.com/IvanTcanga/test-cases)
-- [Bug-Reports](https://github.com/IvanTcanga/Bug-reports)
-- [SQL Queries](https://github.com/IvanTcanga/SQL)
-- [Postman Collections](https://github.com/IvanTcanga/Postman)
-
-### My projects in YP
-
-- [Веб-приложение Яндекс.Маршруты](https://github.com/IvanTcanga/Yandex_Routes)
-- [Мобильное приложение Яндекс.Метро](https://github.com/IvanTcanga/Yandex_Metro)
-- [API Яндекс.Прилавка](https://github.com/IvanTcanga/API_Yandex_Prilavok)
-- [Яндекс Самокат](https://github.com/IvanTcanga/Yandex_Samokat)
-
 ### Contact 
 - [Telegram](https://t.me/itcanga/)
